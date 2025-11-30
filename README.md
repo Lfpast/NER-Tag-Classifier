@@ -10,8 +10,6 @@ This repository contains a Named Entity Recognition (NER) Tag Classification pro
   - `model_v3.py` - `EnhancedModel` and configuration used by the project.
   - `exp_configs.py` - Experiment configuration dataclass.
 - `data/` - dataset (train/test CSVs), default test sample at `data/test.csv`.
-- `checkpoint-2414/` - example model checkpoint directory (contains `config.json`, `model.safetensors`).
-- `model.safetensors` - optional top-level safetensors file.
 - `requirements.txt` - project dependencies.
 
 ## Requirements
